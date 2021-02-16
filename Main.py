@@ -1,5 +1,5 @@
-token = ""
-prefix = ">"
+token = "NzcwMTg4Njg2NTI3OTU0OTY1.YCpWXg.nF2M1CcKwBLcCWRH3yyzskyIzxQ"
+prefix = "*"
 
 
 import discord
